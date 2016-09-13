@@ -1,0 +1,30 @@
+body{
+	background-color: #cccccc;
+}
+
+h1{
+	color: blue;
+}
+
+td{
+	border: 1px dotted blue;
+	background-color: white;
+	padding: 20px 20px 20px 20px;
+	vertical-align: top;
+}
+
+.column1{
+	width: 270px;
+}
+
+.column2{
+
+}
+
+.column3{
+	width: 180px;
+}
+
+.footer{
+	text-align: center;
+}
